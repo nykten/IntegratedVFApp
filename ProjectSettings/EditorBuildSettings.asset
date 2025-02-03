@@ -15,8 +15,8 @@ EditorBuildSettings:
     path: Assets/Scenes/RemapSceneXY.unity
     guid: a9143f416d77ed14a95bb242dbb58cea
   - enabled: 1
-    path: Assets/Scenes/CombinedScene.unity
-    guid: d4f8dcedc692dbe4ca1e15095a122cbe
+    path: Assets/Scenes/MainScene/CombinedScene.unity
+    guid: cadb2ec9733ec1344b82e4a633d46e73
   - enabled: 1
     path: Assets/Scenes/Testing Main Menu.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab

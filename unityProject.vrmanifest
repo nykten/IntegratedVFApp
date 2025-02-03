@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.remapping.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\Caleb\\Documents\\nik-INP\\IntegratedVF\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Users\\Caleb\\Documents\\nik-INP\\IntegratedVFApp\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "Remapping [Testing]"
