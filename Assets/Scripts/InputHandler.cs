@@ -20,11 +20,11 @@ public class InputHandler : MonoBehaviour
     {
         if (e.target.name == "Test")
         {
-            sceneTransitionManager.GoToScene(1); // useful function that allows user to traverse scenes. Scene id's can be found in file-> build settings
+            sceneTransitionManager.GoToScene(2); // useful function that allows user to traverse scenes. Scene id's can be found in file-> build settings
         }
         if (e.target.name == "Test_NoFeedback")
         {
-            sceneTransitionManager.GoToScene(2); // useful function that allows user to traverse scenes. Scene id's can be found in file-> build settings
+            sceneTransitionManager.GoToScene(3); // useful function that allows user to traverse scenes. Scene id's can be found in file-> build settings
         }
     }
 }
